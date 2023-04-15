@@ -35,7 +35,7 @@ header{
     font-family: var(--fonteheader);
     min-height: 100px;
     padding-top: 40px;
-    min-width: 450px;
+    min-width: 300px;
     max-width: 1600px;
 }
 
@@ -58,7 +58,7 @@ nav{
     box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.468);
     padding-bottom: 10px;
     padding-top: 10px;
-    min-width: 450px;
+    min-width: 300px;
     max-width: 1600px;
 }
 
@@ -79,7 +79,7 @@ nav a:hover{
 
 main{
     background-color: white;
-    min-width: 300px;
+    min-width: 450px;
     max-width: 800px;
     margin: auto;
     margin-bottom: 30px;
