@@ -169,6 +169,5 @@ ul {
     text-align: center;
     font-size: 1em;
     padding: 3px;
-    min-width: 450px;
-    max-width: 1600px;
+    width: 97vw;
  }
